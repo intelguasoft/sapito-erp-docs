@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url>
+  <loc>https://docs.sapito-erp.local/docs/algolia-docsearch</loc>
+  <lastmod>2024-03-26T19:39:37+00:00</lastmod>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>https://docs.sapito-erp.local/docs/custom-404-page</loc>
+  <lastmod>2024-03-26T19:39:37+00:00</lastmod>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>https://docs.sapito-erp.local/docs/customizing-your-site</loc>
+  <lastmod>2024-03-26T19:39:37+00:00</lastmod>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>https://docs.sapito-erp.local/docs/getting-started</loc>
+  <lastmod>2024-03-26T19:39:37+00:00</lastmod>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>https://docs.sapito-erp.local/docs/navigation</loc>
+  <lastmod>2024-03-26T19:39:37+00:00</lastmod>
+  <changefreq>daily</changefreq>
+ </url>
+ <url>
+  <loc>https://docs.sapito-erp.local</loc>
+  <lastmod>2024-03-26T19:39:37+00:00</lastmod>
+  <changefreq>daily</changefreq>
+ </url>
+</urlset>
